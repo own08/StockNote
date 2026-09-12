@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+public-site/
+stock-note-*.json
+stock-note-*.csv
+*.zip
